@@ -17,7 +17,7 @@ Terms: Gradient Desent, local minium, Learning Rate,
 
 
 
-Overview of Clustering in Dear Hiring Manager: https://scikit-learn.org/stable/modules/clustering.html
+Overview of Clustering : https://scikit-learn.org/stable/modules/clustering.html
 
 
 
