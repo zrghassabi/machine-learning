@@ -16,6 +16,8 @@ Terms: Gradient Desent, local minium, Learning Rate,
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Overview of Clustering : https://scikit-learn.org/stable/modules/clustering.html
 
@@ -60,8 +62,9 @@ The weaknesses:
 They aren’t well suited for clustering in high-dimensional spaces.
 They have trouble identifying clusters of varying densities.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+K-means :
 
 
 
