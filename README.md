@@ -66,6 +66,20 @@ They have trouble identifying clusters of varying densities.
 
 K-means :
 
+  -The expectation step assigns each data point to its nearest centroid. 
+  -the maximization step computes the mean of all the points for each cluster and sets the new centroid. 
+  
+Objective: to minimize SSE error or sum of squared distance of each poit to its closes centroid.
+
+Notes: 
+  -SSE will be used as a measure of clustering performance. 
+
+  -the initialization of the centroids is an important step. 
+
+  -After choosing a number of clusters and the initial centroids, the expectation-maximization step is repeated until the centroid positions reach convergence and are unchanged.
+  
+  -The random initialization step causes the k-means algorithm to be nondeterministic, meaning that cluster assignments will vary if you run the same algorithm twice on the same dataset. Researchers commonly run several initializations of the entire k-means algorithm and choose the cluster assignments from the initialization with the lowest SSE.
+
 
 
 
