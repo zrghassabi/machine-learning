@@ -7,6 +7,10 @@
 
 Supervised Learning: Classification, Regression (Polynomial, Ridge, LAsso, ElasticNet)
 
+In Regression, Loss Function is MSE. In Classification, loss function is Cross-Entropy (Logarithmic or logistic Loss)
+
+https://howsam.org/logistic-regression/
+
 Unsupervised Learning: Clustering, Dimension reduction.
 
 
