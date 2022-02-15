@@ -85,5 +85,5 @@ Notes:
   -The random initialization step causes the k-means algorithm to be nondeterministic, meaning that cluster assignments will vary if you run the same algorithm twice on the same dataset. Researchers commonly run several initializations of the entire k-means algorithm and choose the cluster assignments from the initialization with the lowest SSE.
 
 
-
+DBSCAN: https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html
 
